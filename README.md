@@ -4,8 +4,6 @@ Hi 👋, I'm Nasrullo
 I'm Flutter Developer.
 Komilov03
 
-Komilov03
-
 🔭 I’m currently working on Instagram clone
 
 🌱 I’m currently learning Flutter framework
@@ -26,7 +24,7 @@ Connect with me:
 Email: nasrullohkomilov@gmail.com
 
 Languages and Tools:
-cplusplus dart figma firebase flutter git hive photoshop postman
+C++,dart,figma,firebase,flutter,git,hive,photoshop 
 
 
 
